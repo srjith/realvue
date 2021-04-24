@@ -1,3 +1,10 @@
-events: {
-
-}
+events: [
+  {
+    "id" : 123,
+    "name" : "Raman"
+  },
+  {
+    "id" : 456,
+    "name" : "John"
+  }
+]
