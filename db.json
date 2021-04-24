@@ -1,13 +1,20 @@
 {
   
-"events": [
-  {
-    "id" : 123,
-    "name" : "Raman"
-  },
-  {
-    "id" : 456,
-    "name" : "John"
-  }
-]
+  "events": [
+    {
+      "id" : 123,
+      "name" : "Raman"
+    },
+    {
+      "id" : 456,
+      "name" : "John"
+    }
+  ],
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
