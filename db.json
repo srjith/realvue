@@ -1,4 +1,6 @@
-events: [
+{
+  
+"events": [
   {
     "id" : 123,
     "name" : "Raman"
@@ -8,3 +10,4 @@ events: [
     "name" : "John"
   }
 ]
+}
